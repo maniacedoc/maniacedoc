@@ -1,7 +1,9 @@
 ## Hey!! Prajakta here! 👋
 
+- 🌱 I am learning and growing. 
 - 🔭 I’m currently working on open-source projects.
-
+- 😄 Pronouns: she/her
+    
 ##  🪶 GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/maniacedoc/maniacedoc/blob/main/Postman%20White.png" width="100px" height="100px" />
