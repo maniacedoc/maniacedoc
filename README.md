@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on open-source projects.
 - 😄 Pronouns: she/her
     
-##  🪶 GSSOC(24) Badges
+##  🪶 GSSOC(24) Extd Badges
   🏆 Rank 253/2.1K+ Contributors 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/maniacedoc/maniacedoc/blob/main/Postman%20White.png" width="100px" height="100px" />
@@ -19,7 +19,7 @@
   <img src="https://github.com/maniacedoc/maniacedoc/blob/main/GitExplorerBadgePrajaktaNanda.jpeg" width="100px" height="100px"/>
 </div>
 
-## 🏆 Digital Badges
+## 🏆 Digital Badges HacktoberFest 2024
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://holopin.me/maniacedoc"/>
 </div>
